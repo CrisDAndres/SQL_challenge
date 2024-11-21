@@ -1,14 +1,14 @@
-## Case Study #1 - Danny's Diner
+## Case Study #1 - Danny's Diner 
 
-### Introducción
+### Introducción 🍣
 
-Danny decide abrir un pequeño restaurante en 2021 llamado "Danny's Diner", donde vende sushi, curry y ramen.
+En 2021, Danny abrió un pequeño pero prometedor restaurante llamado Danny's Diner, especializado en una variedad de platos como sushi, curry y ramen. 
 
-**Objetivo**:
+### Objetivo 🎯
 
-Danny quiere analizar los datos de sus primeros meses de operación para responder preguntas simples sobre sus clientes, en especial sus patrones de visita, cuánto han gastado y cuáles son sus platos favoritos. Conocer mejor a sus clientes le permitirá ofrecer una experiencia más personalizada.
+El objetivo principal de este análisis es ayudar a Danny a comprender mejor el comportamiento de sus clientes en los primeros meses de funcionamiento del restaurante. A través de este estudio, Danny podrá responder preguntas clave sobre el perfil de sus clientes, sus preferencias, y cómo mejorar la experiencia en Danny's Diner. 
 
-Danny también necesita algunos conjuntos de datos básicos que su equipo pueda revisar sin usar SQL. Debido a temas de privacidad, solo te proporcionará una muestra de los datos de sus clientes, esperando que esta muestra sea suficiente para que puedas escribir consultas SQL que respondan a sus preguntas:
+### Preguntas a resolver 🧐
 
 1. ¿Cuál es el importe total que ha gastado cada cliente en el restaurante?
 2. ¿Cuántos días ha visitado el restaurante cada cliente?
