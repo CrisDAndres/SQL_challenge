@@ -14,25 +14,26 @@ SQL (Structured Query Language) es un lenguaje estándar para gestionar y manipu
 
 Este repositorio contiene las soluciones a cada uno de los **8 Case Studies** del desafío. A continuación, se muestra la lista de los proyectos actualmente disponibles, con enlaces a las carpetas correspondientes dentro de este repositorio:
 
-- [Case Study #1 - Danny's Diner](./Case_Study_1_Dannys_Diner)
+- [Case Study #1 - Danny's Diner](./Case_Study_1)
 <!--
-- [Case Study #2 - Pizza Runner](./Case_Study_2_Pizza_Runner)
-- [Case Study #3 - Foodie-Fi](./Case_Study_3_Foodie_Fi)
-- [Case Study #4 - Data Bank](./Case_Study_4_Data_Bank)
-- [Case Study #5 - Data Mart](./Case_Study_5_Data_Mart)
-- [Case Study #6 - Clique Bait](./Case_Study_6_Clique_Bait)
-- [Case Study #7 - Balanced Tree Clothing Co.](./Case_Study_7_Balanced_Tree_Clothing_Co)
-- [Case Study #8 - Fresh Segments](./Case_Study_8_Fresh_Segments)
+- [Case Study #2 - Pizza Runner](./Case_Study_2)
+- [Case Study #3 - Foodie-Fi](./Case_Study_3)
+- [Case Study #4 - Data Bank](./Case_Study_4)
+- [Case Study #5 - Data Mart](./Case_Study_5)
+- [Case Study #6 - Clique Bait](./Case_Study_6)
+- [Case Study #7 - Balanced Tree Clothing Co.](./Case_Study_7)
+- [Case Study #8 - Fresh Segments](./Case_Study_8)
 -->
 
-### Estructura de cada caso de estudio 
+### Estructura de cada caso de estudio 📑
 
 Cada *Case Study* incluye:
 
-1. **Descripción del desafío**: Resumen de lo que se espera lograr en ese caso de estudio, y las preguntas a resolver.
-2. **Consultas SQL**: Archivo ``.sql`` con las consultas necesarias para resolver cada problema planteado, así como la explicación de partes del código.
+1. **Descripción del desafío**: Un resumen de lo que se espera lograr en ese caso de estudio, incluyendo las preguntas que se deben resolver.
+2. **Tablas SQL**: Archivo ``.sql`` con el código necesario para crear la base de datos y las tablas relacionadas.
+2. **Consultas SQL**: Archivo ``.sql`` con las consultas necesarias para resolver los problemas planteados en el desafío, con explicaciones de las partes clave del código.
 
-## Tecnologías utilizadas 🛠️
+### Tecnologías utilizadas 🛠️
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white): Para trabajar con bases de datos y realizar las consultas.
 
