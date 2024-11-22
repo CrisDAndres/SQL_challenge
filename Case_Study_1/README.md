@@ -25,6 +25,7 @@ El objetivo principal de este análisis es ayudar a Danny a comprender mejor el 
 1. *Join All The Things*. Recrea la siguiente tabla:
 
 ![alt text](image.png)
+
 2. *Rank All The Things*. Recrea la siguiente tabla:
 
 ![alt text](image-1.png)
