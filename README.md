@@ -31,7 +31,8 @@ Cada *Case Study* incluye:
 
 1. **Descripción del desafío**: Un resumen de lo que se espera lograr en ese caso de estudio, incluyendo las preguntas que se deben resolver.
 2. **Tablas SQL**: Archivo ``.sql`` con el código necesario para crear la base de datos y las tablas relacionadas.
-2. **Consultas SQL**: Archivo ``.sql`` con las consultas necesarias para resolver los problemas planteados en el desafío, con explicaciones de las partes clave del código.
+3. **Consultas SQL**: Archivo ``.sql`` con las consultas necesarias para resolver los problemas planteados en el desafío, con explicaciones de las partes clave del código.
+4. **Preguntas BONUS**: Archivo ``.sql`` con las consultas necesarias para resolver las preguntas BONUS.
 
 ### Tecnologías utilizadas 🛠️
 
