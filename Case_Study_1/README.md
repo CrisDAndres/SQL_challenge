@@ -20,3 +20,9 @@ El objetivo principal de este análisis es ayudar a Danny a comprender mejor el 
 8. ¿Cuál es el total de artículos y el importe gastado por cada cliente antes de hacerse socio?
 9. Si cada dólar gastado equivale a 10 puntos y el sushi tiene un multiplicador de puntos por 2, ¿cuántos puntos tendría cada cliente?
 10. En la primera semana después de que un cliente se adhiera al programa (incluida su fecha de adhesión) gana 2 veces puntos en todos los artículos, no sólo en el sushi: ¿cuántos puntos tienen los clientes A y B a finales de enero?
+
+#### Preguntas BONUS
+1. *Join All The Things*. Recrea la siguiente tabla:
+![alt text](image.png)
+2. *Rank All The Things*. Recrea la siguiente tabla:
+![alt text](image-1.png)
